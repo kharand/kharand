@@ -78,7 +78,7 @@ Areas of interest include automation, server technologies, scripting, and system
 
 # Technical Interests
 
-🎮 Gaming & modding  
+🎮 Gaming, Modding & 3D-Modelling  
 🖥️ Home lab experimentation  
 🔧 Hardware tinkering  
 📡 Network and server environments  
