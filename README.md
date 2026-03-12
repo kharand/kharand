@@ -2,19 +2,9 @@
 
 # Kharand
 
-### Programming • Infrastructure • Servers • Automation • Hardware
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Programming+and+Automation;Infrastructure+and+Server+Technologies;Hardware+and+Systems+Engineering;Python+%7C+PowerShell+%7C+C%23+%7C+C%2B%2B" />
+### Programming • Infrastructure • Servers • Automation • Hardware • Modding • 3D Modelling
 
 </div>
-
----
-
-## Overview
-
-Focused on building reliable and efficient systems through programming, infrastructure, and hardware experimentation.
-
-Areas of interest include automation, server technologies, scripting, and system-level problem solving.
 
 ---
 
